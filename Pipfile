@@ -10,6 +10,8 @@ python-dotenv = "*"
 asyncio = "*"
 telepot = "*"
 beautifulsoup4 = "*"
+fake-useragent = "*"
+requests-html = "*"
 
 [dev-packages]
 
